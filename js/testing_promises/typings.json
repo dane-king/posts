@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "angular": "registry:dt/angular#1.6.0+20170208115201",
+    "debug": "registry:npm/debug#2.0.0+20160723033700"
+  }
+}
